@@ -6,4 +6,4 @@
 ✅Calcula o preço total do pedido.<br>
 ✅Permite filtrar e exibir apenas os itens veganos do menu.</p><br>
 🍔🍔🍔🍔
-<img src="https://github.com/willianoliveira80/devclub-burger/blob/master/img/DevClub%20-%20Burger.jpg?raw=true" />
+<img src="https://github.com/willianoliveira80/devclub-burger/blob/master/img/DevClub%20-%20Burger.jpg?raw=true" >
